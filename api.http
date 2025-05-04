@@ -2,16 +2,16 @@ POST http://localhost:3000/api/diaries
 Content-Type: application/json
 
 {
-    "date": "2025-05-03",
+    "date": "2025-11-17",
     "weather": "sunny",
-    "visibility": "good",
+    "visibility": "ok",
     "comment": "Awesome day"
 }
 
 HTTP/1.1 200  - OK
 x-powered-by: Express
 content-type: application/json; charset=utf-8
-content-length: 270
-etag: W/"10e-qaJ58E7C8OVeg2d0Niqq82bTJCc"
-date: Sun, 04 May 2025 00:47:43 GMT
+content-length: 88
+etag: W/"58-/w+NWL6VEqgfiMG7OzY9BhknErk"
+date: Sun, 04 May 2025 02:54:20 GMT
 connection: close
